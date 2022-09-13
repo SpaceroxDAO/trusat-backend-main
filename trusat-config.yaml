@@ -1,0 +1,8 @@
+# Trusat Database Connection Configuration
+Database:
+  name: "space"
+  type: "sqlserver"
+  hostname: "127.0.0.1"
+  username: "root"
+  password: "!123456!"
+  auth_plugin : "mysql_native_password"
